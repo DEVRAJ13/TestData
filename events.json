@@ -1,0 +1,40 @@
+{
+  "event_title":"What we are doing",
+  "event_subject":"We arrange many social events for charity donations",
+  "events":[{
+    "img_url":"",
+    "title":"Donation is Hope",
+    "start_time":"8:30 AM",
+    "end_time":"10:30 AM",
+    "location":"Block D, Noida, Sector 171, 2nd floor."
+  },{
+    "img_url":"",
+    "title":"Donation is Hope",
+    "start_time":"8:30 AM",
+    "end_time":"10:30 AM",
+    "location":"Block D, Noida, Sector 171, 2nd floor."
+  },{
+    "img_url":"",
+    "title":"Donation is Hope",
+    "start_time":"8:30 AM",
+    "end_time":"10:30 AM",
+    "location":"Block D, Noida, Sector 171, 2nd floor."
+  }],
+  "event_tiles":[{
+      "title":"Donation",
+      "count":"100",
+      "toggle":"true"
+    },{
+      "title":"Fund Raised",
+      "count":"150",
+      "toggle":"true"
+    },{
+      "title":"Donation",
+      "count":"110",
+      "toggle":"false"
+    },{
+      "title":"Donation",
+      "count":"120",
+      "toggle":"false"
+    }]
+}
