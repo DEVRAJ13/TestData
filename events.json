@@ -6,34 +6,37 @@
     "title":"Donation is Hope",
     "start_time":"8:30 AM",
     "end_time":"10:30 AM",
+    "date":"01/12/2024",
     "location":"Block D, Noida, Sector 171, 2nd floor."
   },{
     "img_url":"",
     "title":"Donation is Hope",
     "start_time":"8:30 AM",
     "end_time":"10:30 AM",
+     "date":"01/12/2024",
     "location":"Block D, Noida, Sector 171, 2nd floor."
   },{
     "img_url":"assets/img/gallery/socialEvents2.png",
     "title":"Donation is Hope",
     "start_time":"8:30 AM",
     "end_time":"10:30 AM",
+    "date":"01/12/2024",
     "location":"Block D, Noida, Sector 171, 2nd floor."
   }],
   "event_tiles":[{
-      "title":"Donation",
+      "label":"Donation",
       "count":"100",
       "toggle":"true"
     },{
-      "title":"Fund Raised",
+      "label":"Fund Raised",
       "count":"150",
       "toggle":"true"
     },{
-      "title":"Donation",
+      "label":"Donation",
       "count":"110",
       "toggle":"false"
     },{
-      "title":"Donation",
+      "label":"Donation",
       "count":"120",
       "toggle":"false"
     }]
