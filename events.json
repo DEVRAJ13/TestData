@@ -2,7 +2,7 @@
   "event_title":"What we are doing",
   "event_subject":"We arrange many social events for charity donations",
   "events":[{
-    "img_url":"",
+    "img_url":"assets/img/gallery/socialEvents2.png",
     "title":"Donation is Hope",
     "start_time":"8:30 AM",
     "end_time":"10:30 AM",
@@ -14,7 +14,7 @@
     "end_time":"10:30 AM",
     "location":"Block D, Noida, Sector 171, 2nd floor."
   },{
-    "img_url":"",
+    "img_url":"assets/img/gallery/socialEvents2.png",
     "title":"Donation is Hope",
     "start_time":"8:30 AM",
     "end_time":"10:30 AM",
