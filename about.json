@@ -1,0 +1,13 @@
+{
+    "our_story":{
+            "title": "Section 1.10.33 of de Finibus Bonorum et Malorum written by Cicero in 45 BC",
+            "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium"},
+  "our_vision":{
+    "title": "Section 1.10.33 of de Finibus Bonorum et Malorum written by Cicero in 45 BC",
+            "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium"},
+  },
+    "our_mision":{
+    "title": "Section 1.10.33 of de Finibus Bonorum et Malorum written by Cicero in 45 BC",
+            "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium"},
+  }
+}
