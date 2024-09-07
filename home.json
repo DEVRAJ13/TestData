@@ -1,1 +1,24 @@
+{
+  "main_title":"Empowering Communities.",
+  "main_subtitle":"Creating lasting change. Together, we build a brighter future for all. Through collaboration and compassion, we address the needs of today for a better tomorrow.",
+  "founders_info":[{
+    "profile_url":"http://localhost:4200/assets/img/gallery/testimonial.png",
+    "name":"Margaret Lawson",
+    "job_role":"Creative Director",
+    "testimonial":"“I am at an age where I just want to be fit and healthy our bodies are our responsibility! So start caring for your body and it will care for you. Eat clean it will care for you and workout hard.”"
+  }],
+  "volunteers_info":[{
+    "profile_url":"http://localhost:4200/assets/img/gallery/testimonial.png",
+    "name":"Bruce Roberts",
+    "role":"Volunteer",
+    "social_url_for_twitter":"",
+    "social_url_for_facebook":"",
+    "social_url_for_linkedin":"https://www.linkedin.com/in/devraj-thakur",
+  }],
+  "volunteer_tile_label":"Our Expert Volunteer Alwyes ready",
+  "about_title":"About our foundetion",
+  "about_subtitle":"We Are In A Mission To Help Helpless",
+  "about_description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit,mod tempor incididunt ut labore et dolore magna aliqua. Utnixm, quis nostrud exercitation ullamc.
 
+Lorem ipvsum dolor sit amext, consectetur adipisicing elit, smod tempor incididunt ut labore et dolore."
+}
