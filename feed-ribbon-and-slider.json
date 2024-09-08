@@ -1,12 +1,17 @@
 {
-"mrq_content":"News feed 1 neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit. | News feed 2 neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit. | News feed 3 neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit."
-"slide_urls":[{
-  "img_url":"https://cdn.pixabay.com/photo/2016/11/29/06/15/plans-1867745_1280.jpg"
-  },{
-  "img_url":"https://media.istockphoto.com/id/1201166649/photo/office-responsive-devices-web-design-website.jpg?s=612x612&w=0&k=20&c=w1zX61Nw0p3aguqUj9FFrUV9hl8l67zut_ZhdnB9p-E="
-  },{
-  "img_url":"https://media.istockphoto.com/id/1262218295/photo/website-designer-creative-planning-phone-app-development-sketch-template-layout-framework.jpg?s=612x612&w=0&k=20&c=_OTrVXVZl2H-iTGNNYEUGMU7KT-yUz98gFOskleQ6mo="
-  },{
-  "img_url":""
-  }]
+    "mrq_content": "News feed 1 neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit. | News feed 2 neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit. | News feed 3 neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+    "slide_urls": [
+        {
+            "img_url": "https://cdn.pixabay.com/photo/2016/11/29/06/15/plans-1867745_1280.jpg"
+        },
+        {
+            "img_url": "https://media.istockphoto.com/id/1201166649/photo/office-responsive-devices-web-design-website.jpg?s=612x612&w=0&k=20&c=w1zX61Nw0p3aguqUj9FFrUV9hl8l67zut_ZhdnB9p-E="
+        },
+        {
+            "img_url": "https://media.istockphoto.com/id/1262218295/photo/website-designer-creative-planning-phone-app-development-sketch-template-layout-framework.jpg?s=612x612&w=0&k=20&c=_OTrVXVZl2H-iTGNNYEUGMU7KT-yUz98gFOskleQ6mo="
+        },
+        {
+            "img_url": ""
+        }
+    ]
 }
