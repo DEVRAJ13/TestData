@@ -1,5 +1,5 @@
 {
-    "mrq_content": "News feed 1 neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit. | News feed 2 neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit. | News feed 3 neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+    "mrq_content": `News feed 1 neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit. | News feed 2 neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit. | News feed 3 neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.`,
     "slide_urls": [
         {
             "img_url": "https://cdn.pixabay.com/photo/2016/11/29/06/15/plans-1867745_1280.jpg"
