@@ -1,9 +1,9 @@
 {
   "images":[{
-    "img_url":"assets/img/elements/g1.jpg"
+    "img_url":"../../../assets/img/elements/g1.jpg"
   },{
-    "img_url":"assets/img/elements/g2.jpg"
+    "img_url":"../../../assets/img/elements/g2.jpg"
   },{
-    "img_url":"assets/img/elements/g3.jpg"
+    "img_url":"../../../assets/img/elements/g3.jpg"
   }]
 }
